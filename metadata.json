@@ -1,0 +1,6 @@
+{
+  "name": "DSA Pattern Map",
+  "description": "Learn Data Structures & Algorithms patterns easily with simple maps, daily practice, quick quizzes, and AI help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
